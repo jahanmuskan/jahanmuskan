@@ -42,7 +42,8 @@ I love keeping my coding streaks going!
 
 ## 🏆 Achievements
 - 💻 **Contributions**: Contributed to project, from bug fixes to feature additions.
-- 📜 **Certifications**: Completed certifications in Full Stack Java Developer(https://drive.google.com/file/d/1PB4xoumCZFHpjx9Q0eK0xgVJ82mgv63l/view)
+- 📜 **Certifications**: Full Stack Java Developer(https://drive.google.com/file/d/1PB4xoumCZFHpjx9Q0eK0xgVJ82mgv63l/view)                     
+Participation Certificate on Understanding of Kafka and Zookeper(https://drive.google.com/file/d/1h0Ehsk3vR-6BYE8lbpJkGJ8l5sXk_hZR/view?usp=drive_link)
 
 ## 📫 Let's Connect!
 I'm always up for collaborations, discussions, and learning together. Here's how you can reach me:
