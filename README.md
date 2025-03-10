@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Welcome to my GitHub profile! I'm a passionate developer with a deep interest in building meaningful and scalable applications. I specialize in backend development, focusing on back-end technologies. I am always curious to learn new technologies and constantly improving my skills.
 
-🔹 **Current Focus**:  Working with Java, Spring Boot, SQL and building RESTful APIs, Exploring Data Structures and Algorithms (DSA),  Linux.  
+🔹 **Current Focus**:  Working with Java, Spring Boot, SQL and building RESTful APIs, Exploring Data Structures and Algorithms (DSA). 
 🔹 **Favorite Tools**: IntelliJ IDEA, VS Code, pgAdmin, and Git.
 
 When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or learning about system architecture and design.
