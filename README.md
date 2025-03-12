@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a deep interest in
 🔹 **Current Focus**:  Working with Java, Spring Boot, SQL and building RESTful APIs, Exploring Data Structures and Algorithms (DSA).    
 🔹 **Favorite Tools**: IntelliJ IDEA, VS Code, pgAdmin, and Git.
 
-When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or learning about system architecture and design.
 
 ## 🛠️ Skills & Technologies
 Here's a glimpse of what I'm working with:
